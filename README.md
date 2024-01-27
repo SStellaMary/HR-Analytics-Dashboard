@@ -14,7 +14,7 @@ Here is a summary of the key data points and a data storytelling approach for th
 - Employees aged 25-34 had the most attrition (112 left), followed by 35-44 (51). Attrition was lowest for employees under 25 and over 55.  
 - Most employees who left were married (327). Divorced employees had higher attrition than single employees.
 
-**Employee Profile: **
+**Employee Profile:**
 
 - The average employee age is 37 and average job satisfaction score is 2.6 out of 5.  
 - 56% of employees are male, 44% female.  
