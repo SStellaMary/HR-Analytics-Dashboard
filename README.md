@@ -24,7 +24,7 @@ Here is a summary of the key data points and a data storytelling approach for th
 
 1. Set the context: Describe the business challenge or question the dashboard aims to address - reducing attrition.
 
-2. Present key insights: Highlight the most significant findings from the data - high attrition in Sales dept, married employees, and 25-34 age group. 
+2. Present key insights: Highlight the most significant findings from the data - high attrition in Sales department, married employees, and 25-34 age group. 
 
 3. Humanize with personas: Bring insights to life through representative personas like "Mike, a 32 year-old married Sales rep with low job satisfaction."
 
