@@ -1,6 +1,8 @@
-**HR Analytics Dashboard**
+**HR Analytics Dashboard** - Microsoft Excel
 
 Tools Used: Microsoft Excel and Microsoft Powerpoint.
+
+Data Source: Youtube dummy dataset (Kaggle)
 
 Here is a summary of the key data points and a data storytelling approach for this HR analytics dashboard:
 
